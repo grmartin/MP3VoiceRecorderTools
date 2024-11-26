@@ -1,0 +1,5 @@
+srt
+# mutagen # for prototyp sylt processor
+moviepy
+pillow
+matplotlib
