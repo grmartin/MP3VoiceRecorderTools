@@ -1,0 +1,3 @@
+mutagen
+pyinstaller
+pyinstaller_versionfile
